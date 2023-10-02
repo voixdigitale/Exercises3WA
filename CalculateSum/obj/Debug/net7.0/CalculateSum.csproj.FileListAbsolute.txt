@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\CalculateSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\CalculateSum.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\CalculateSum.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\CalculateSum.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\bin\Debug\net7.0\CalculateSum.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\bin\Debug\net7.0\CalculateSum.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\bin\Debug\net7.0\CalculateSum.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\bin\Debug\net7.0\CalculateSum.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\bin\Debug\net7.0\CalculateSum.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\CalculateSum.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\refint\CalculateSum.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\CalculateSum.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\CalculateSum.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\CalculateSum\obj\Debug\net7.0\ref\CalculateSum.dll
