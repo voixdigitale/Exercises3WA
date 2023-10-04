@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\bin\Debug\net7.0\BouclePairs.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\bin\Debug\net7.0\BouclePairs.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\bin\Debug\net7.0\BouclePairs.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\bin\Debug\net7.0\BouclePairs.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\bin\Debug\net7.0\BouclePairs.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\BouclePairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\BouclePairs.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\BouclePairs.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\BouclePairs.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\BouclePairs.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\refint\BouclePairs.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\BouclePairs.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\BouclePairs.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\BouclePairs\obj\Debug\net7.0\ref\BouclePairs.dll

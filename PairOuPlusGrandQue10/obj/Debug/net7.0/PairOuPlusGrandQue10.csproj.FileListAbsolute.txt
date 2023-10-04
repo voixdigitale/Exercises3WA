@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\bin\Debug\net7.0\PairOuPlusGrandQue10.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\bin\Debug\net7.0\PairOuPlusGrandQue10.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\bin\Debug\net7.0\PairOuPlusGrandQue10.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\bin\Debug\net7.0\PairOuPlusGrandQue10.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\bin\Debug\net7.0\PairOuPlusGrandQue10.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\PairOuPlusGrandQue10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\PairOuPlusGrandQue10.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\PairOuPlusGrandQue10.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\PairOuPlusGrandQue10.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\PairOuPlusGrandQue10.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\refint\PairOuPlusGrandQue10.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\PairOuPlusGrandQue10.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\PairOuPlusGrandQue10.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuPlusGrandQue10\obj\Debug\net7.0\ref\PairOuPlusGrandQue10.dll

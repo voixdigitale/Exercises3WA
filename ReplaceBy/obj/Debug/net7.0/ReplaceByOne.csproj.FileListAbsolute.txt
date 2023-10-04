@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\bin\Debug\net7.0\ReplaceByOne.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\bin\Debug\net7.0\ReplaceByOne.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\bin\Debug\net7.0\ReplaceByOne.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\bin\Debug\net7.0\ReplaceByOne.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\bin\Debug\net7.0\ReplaceByOne.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ReplaceByOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ReplaceByOne.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ReplaceByOne.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ReplaceByOne.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ReplaceByOne.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\refint\ReplaceByOne.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ReplaceByOne.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ReplaceByOne.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\ReplaceBy\obj\Debug\net7.0\ref\ReplaceByOne.dll

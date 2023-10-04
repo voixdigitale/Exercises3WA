@@ -17,6 +17,5 @@ void PrintList(List<int> list)
     for (int i = 0; i < list.Count; i++)
     {
         Console.WriteLine(list[i]);
-        i++;
     }
 }

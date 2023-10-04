@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\bin\Debug\net7.0\AleaJactaEst.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\bin\Debug\net7.0\AleaJactaEst.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\bin\Debug\net7.0\AleaJactaEst.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\bin\Debug\net7.0\AleaJactaEst.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\bin\Debug\net7.0\AleaJactaEst.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\AleaJactaEst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\AleaJactaEst.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\AleaJactaEst.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\AleaJactaEst.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\AleaJactaEst.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\refint\AleaJactaEst.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\AleaJactaEst.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\AleaJactaEst.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\AleaJactaEst\obj\Debug\net7.0\ref\AleaJactaEst.dll

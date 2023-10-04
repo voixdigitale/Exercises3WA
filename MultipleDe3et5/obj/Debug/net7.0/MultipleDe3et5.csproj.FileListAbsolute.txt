@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\bin\Debug\net7.0\MultipleDe3et5.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\bin\Debug\net7.0\MultipleDe3et5.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\bin\Debug\net7.0\MultipleDe3et5.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\bin\Debug\net7.0\MultipleDe3et5.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\bin\Debug\net7.0\MultipleDe3et5.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\MultipleDe3et5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\MultipleDe3et5.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\MultipleDe3et5.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\MultipleDe3et5.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\MultipleDe3et5.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\refint\MultipleDe3et5.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\MultipleDe3et5.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\MultipleDe3et5.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\MultipleDe3et5\obj\Debug\net7.0\ref\MultipleDe3et5.dll

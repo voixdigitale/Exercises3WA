@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\bin\Debug\net7.0\PairOuImpair.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\bin\Debug\net7.0\PairOuImpair.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\bin\Debug\net7.0\PairOuImpair.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\bin\Debug\net7.0\PairOuImpair.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\bin\Debug\net7.0\PairOuImpair.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\PairOuImpair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\PairOuImpair.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\PairOuImpair.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\PairOuImpair.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\PairOuImpair.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\refint\PairOuImpair.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\PairOuImpair.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\PairOuImpair.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PairOuImpair\obj\Debug\net7.0\ref\PairOuImpair.dll

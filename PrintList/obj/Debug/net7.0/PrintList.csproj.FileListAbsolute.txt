@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\bin\Debug\net7.0\PrintList.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\bin\Debug\net7.0\PrintList.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\bin\Debug\net7.0\PrintList.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\bin\Debug\net7.0\PrintList.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\bin\Debug\net7.0\PrintList.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\PrintList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\PrintList.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\PrintList.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\PrintList.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\PrintList.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\refint\PrintList.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\PrintList.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\PrintList.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\PrintList\obj\Debug\net7.0\ref\PrintList.dll

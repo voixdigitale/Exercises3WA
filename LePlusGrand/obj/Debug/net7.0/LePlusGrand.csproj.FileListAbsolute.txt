@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\bin\Debug\net7.0\LePlusGrand.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\bin\Debug\net7.0\LePlusGrand.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\bin\Debug\net7.0\LePlusGrand.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\bin\Debug\net7.0\LePlusGrand.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\bin\Debug\net7.0\LePlusGrand.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\LePlusGrand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\LePlusGrand.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\LePlusGrand.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\LePlusGrand.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\LePlusGrand.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\refint\LePlusGrand.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\LePlusGrand.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\LePlusGrand.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\LePlusGrand\obj\Debug\net7.0\ref\LePlusGrand.dll
