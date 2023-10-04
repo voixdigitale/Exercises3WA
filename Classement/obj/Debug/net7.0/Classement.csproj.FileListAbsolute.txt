@@ -1,0 +1,14 @@
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\bin\Debug\net7.0\Classement.exe
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\bin\Debug\net7.0\Classement.deps.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\bin\Debug\net7.0\Classement.runtimeconfig.json
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\bin\Debug\net7.0\Classement.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\bin\Debug\net7.0\Classement.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\Classement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\Classement.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\Classement.AssemblyInfo.cs
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\Classement.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\Classement.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\refint\Classement.dll
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\Classement.pdb
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\Classement.genruntimeconfig.cache
+C:\Users\Utilisateur\Documents\Projets\Exercises3WA\Classement\obj\Debug\net7.0\ref\Classement.dll

@@ -11,31 +11,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreaterInt", "GreaterInt\Gr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReplaceByOne", "ReplaceBy\ReplaceByOne.csproj", "{6F2D9103-0806-4D79-9734-18EC468FE079}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{D51155FE-BE22-4800-98E0-6CB3DD1901CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables", "Variables\Variables.csproj", "{D51155FE-BE22-4800-98E0-6CB3DD1901CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddZ", "Operators\AddZ.csproj", "{F03EA01E-2F0B-4BEA-A126-8FC81AA26A22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddZ", "Operators\AddZ.csproj", "{F03EA01E-2F0B-4BEA-A126-8FC81AA26A22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplierPar2", "MultiplierPar2\MultiplierPar2.csproj", "{17EED138-15A9-4B47-A8FD-B34E8F658195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiplierPar2", "MultiplierPar2\MultiplierPar2.csproj", "{17EED138-15A9-4B47-A8FD-B34E8F658195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairOuImpair", "PairOuImpair\PairOuImpair.csproj", "{9EAA6833-C2B7-4B0F-8CE5-7E66B59CBC7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairOuImpair", "PairOuImpair\PairOuImpair.csproj", "{9EAA6833-C2B7-4B0F-8CE5-7E66B59CBC7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LePlusGrand", "LePlusGrand\LePlusGrand.csproj", "{8F6687C8-067C-41B5-9F79-9CCF08168C28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LePlusGrand", "LePlusGrand\LePlusGrand.csproj", "{8F6687C8-067C-41B5-9F79-9CCF08168C28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairEtPlusGrandQue10", "PairEtPlusGrandQue10\PairEtPlusGrandQue10.csproj", "{E8AA0794-34E4-4B78-A85F-B283F7A76AC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairEtPlusGrandQue10", "PairEtPlusGrandQue10\PairEtPlusGrandQue10.csproj", "{E8AA0794-34E4-4B78-A85F-B283F7A76AC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDe3et5", "MultipleDe3et5\MultipleDe3et5.csproj", "{206C00DF-878C-4B68-BBF2-380640E3A10F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleDe3et5", "MultipleDe3et5\MultipleDe3et5.csproj", "{206C00DF-878C-4B68-BBF2-380640E3A10F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairOuPlusGrandQue10", "PairOuPlusGrandQue10\PairOuPlusGrandQue10.csproj", "{05F78E00-59FB-4DB4-87E6-E16AA5C03C70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PairOuPlusGrandQue10", "PairOuPlusGrandQue10\PairOuPlusGrandQue10.csproj", "{05F78E00-59FB-4DB4-87E6-E16AA5C03C70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleDe3ou5", "MultipleDe3ou5\MultipleDe3ou5.csproj", "{71C068B3-6FC0-47C6-83A3-357B98F2C8F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultipleDe3ou5", "MultipleDe3ou5\MultipleDe3ou5.csproj", "{71C068B3-6FC0-47C6-83A3-357B98F2C8F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculatrice", "Calculatrice\Calculatrice.csproj", "{334466E0-014A-4830-A1CA-7538910D3B7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculatrice", "Calculatrice\Calculatrice.csproj", "{334466E0-014A-4830-A1CA-7538910D3B7D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BouclePairs", "BouclePairs\BouclePairs.csproj", "{AE7EAB83-AC1B-4BB4-AE77-F2A2862E29F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BouclePairs", "BouclePairs\BouclePairs.csproj", "{AE7EAB83-AC1B-4BB4-AE77-F2A2862E29F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AleaJactaEst", "AleaJactaEst\AleaJactaEst.csproj", "{2AF101C3-D524-4A1B-9E95-D634BDE7F582}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AleaJactaEst", "AleaJactaEst\AleaJactaEst.csproj", "{2AF101C3-D524-4A1B-9E95-D634BDE7F582}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOuMoins", "PlusOuMoins\PlusOuMoins.csproj", "{3B558A17-4D6F-49AF-8D15-84A6D81FE022}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOuMoins", "PlusOuMoins\PlusOuMoins.csproj", "{3B558A17-4D6F-49AF-8D15-84A6D81FE022}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classement", "Classement\Classement.csproj", "{B299600B-6570-476B-8120-660A35D72B55}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{3B558A17-4D6F-49AF-8D15-84A6D81FE022}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B558A17-4D6F-49AF-8D15-84A6D81FE022}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B558A17-4D6F-49AF-8D15-84A6D81FE022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B299600B-6570-476B-8120-660A35D72B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B299600B-6570-476B-8120-660A35D72B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B299600B-6570-476B-8120-660A35D72B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B299600B-6570-476B-8120-660A35D72B55}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
